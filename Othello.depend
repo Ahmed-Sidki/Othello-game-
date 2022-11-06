@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1612133773 source:/home/zakaria/Projects/Othello_C_P2/fonctions.c
+
+1612104467 source:/home/zakaria/Projects/Othello_C_P2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1612104467 /home/zakaria/Projects/Othello_C_P2/fonctions.h
+
+1614179565 source:c:\users\asus-pc\desktop\othello_c_p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1614178813 c:\users\asus-pc\desktop\othello_c_p2\fonctions.h
+
+1614178813 source:c:\users\asus-pc\desktop\othello_c_p2\fonctions.c
+
+1614178813 source:c:\users\asus-pc\desktop\othello_c\fonctions.c
+
+1614179565 source:c:\users\asus-pc\desktop\othello_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1614178813 c:\users\asus-pc\desktop\othello_c\fonctions.h
+
+1614178813 source:c:\users\asus-pc\desktop\projet\othello_c\fonctions.c
+
+1614147164 source:c:\users\asus-pc\desktop\projet\othello_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1614178813 c:\users\asus-pc\desktop\projet\othello_c\fonctions.h
+
+1614178813 source:c:\users\asus-pc\desktop\projet-othello\othello_c\fonctions.c
+
+1614147164 source:c:\users\asus-pc\desktop\projet-othello\othello_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1614178813 c:\users\asus-pc\desktop\projet-othello\othello_c\fonctions.h
+
+1614178813 source:c:\users\asus-pc\desktop\projet_othello\othello_c\fonctions.c
+
+1614147164 source:c:\users\asus-pc\desktop\projet_othello\othello_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonctions.h"
+
+1614178813 c:\users\asus-pc\desktop\projet_othello\othello_c\fonctions.h
+
