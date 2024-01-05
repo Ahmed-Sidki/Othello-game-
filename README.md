@@ -1,0 +1,1 @@
+Othello est un jeu de stratégie à deux joueurs. Il se joue sur un plateau de 64 cases. Le jeu dispose de 64 pions bicolores, noirs d'un côté et blancs de l'autre. Le but du jeu est d'avoir plus de pions que son adversaire à la fin de la partie. Celle-ci se termine lorsque aucun des deux joueur ne peut plus jouer de coup qui soit légale
